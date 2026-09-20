@@ -1,0 +1,8 @@
+# Build files
+build/
+
+# macOS debug symbols
+*.dSYM/
+
+# VS Code
+.vscode/
